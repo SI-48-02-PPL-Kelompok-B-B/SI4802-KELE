@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Rakean Ahmad Zayyid Ardhi
+=======
+Rakean Ahmad Zayyid Ardhi (102022400160)
+>>>>>>> Stashed changes
 Maurellio Christopher Yonathan
 Muhammad Daffa Reifansya
 Muhammad Daffa Fachrurozi
