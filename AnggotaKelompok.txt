@@ -1,11 +1,7 @@
 Rakean Ahmad Zayyid Ardhi - 102022400160
-<<<<<<< Updated upstream
 Muhammad Daffa Reifansya - 102022400329
-=======
-Maurellio Christopher Yonathan
-Muhammad Daffa Reifansya - 102022400329
-Muhammad Daffa Fachrurozi
-I Nyoman Aditya Wahyu Nugraha
+I Nyoman Aditya Wahyu Nugraha - 102022400202
 Baso Aditya Rizky
-Wahyu Wijaya
->>>>>>> Stashed changes
+Wahyu Wijaya - 102022400125
+Maurellio Christopher Yonathan - 102022430009
+Muhammad Daffa Fachrurozi - 102022400151
